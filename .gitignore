@@ -1,0 +1,7 @@
+/bin/
+/dist/
+/data/*.gdb
+/data/*.log
+/data/meta.json
+*.exe
+.DS_Store
